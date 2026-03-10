@@ -1,1 +1,3 @@
 # ios_vnptsmartca_sdk_lite
+Tải SDK theo đường dẫn sau
+https://github.com/VNPT-SmartCA/ios_vnptsmartca_sdk_LITE/releases/
